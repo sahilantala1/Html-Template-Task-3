@@ -1,0 +1,46 @@
+.container {
+    width: 1000px;
+    margin: auto;
+
+}
+
+.header {
+    text-align: center;
+    padding: 20px;
+    background-color: rgb(241, 197, 22);
+}
+
+.box {
+    display: flex;
+    gap: 30px;
+    justify-content: space-between; 
+    text-align: center;
+    align-items: center;
+
+}
+.body{
+    margin: 0%;
+    padding: 0%;
+}
+
+ul{
+    display: flex;
+    gap: 20px;
+}
+
+.section2{
+    padding: 20px;
+    background-color: rgb(209, 51, 191);
+}
+.content4{
+    text-align: center;
+}
+.section3{
+    padding: 20px;
+    background-color: blueviolet;
+}
+
+.parent{
+    display: flex;
+    justify-content: space-between;
+}
